@@ -1,2 +1,3 @@
 git git test test
 git second commit test
+pull: L?y n?i dung c?a remote repository
